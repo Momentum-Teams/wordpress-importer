@@ -18,6 +18,22 @@
   </a>
 </p>
 
+
+```bash
+cp .env.example .env #and fill in values
+```
+
+
+```bash
+  npm i
+```
+
+```bash
+  npm run dev
+```
+
+
+
 ## 🚀 Usage
 
 ### Prerequisets

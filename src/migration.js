@@ -10,7 +10,7 @@ const turndownService = new TurndownService()
 const settings_defaults = {
   region: 'eu',
   import_assets: {
-    enabled: true,
+    enabled: true, //set to false for testing
     types: ['png', 'jpg', 'jpeg', 'gif', 'png', 'svg', 'pdf'],
     restrict_domain: false
   }
